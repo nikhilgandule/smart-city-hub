@@ -26,6 +26,12 @@ The project provides a centralized interface where citizens can explore city ser
 
 ---
 
+🌍 Live Preview
+
+🔗 https://smart-city-hub.netlify.app/
+
+---
+
 ## 🏙️ Purpose of the Project
 
 The goal of Smart City Hub is to demonstrate how a digital platform can:
